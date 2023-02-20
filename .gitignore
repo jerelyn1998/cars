@@ -37,3 +37,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+sudo chown -R $jerelyn1998 /var/www
